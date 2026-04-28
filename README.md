@@ -146,8 +146,9 @@ Tools that may be used:
 
 ## 🙌 Authors
 
-*Yasmin Abdelhamid
-*Samira Samir
-*Sama Mohamed
-*Rewaa Sabry
+* Yasmin Abdelhamid
+* Samira Samir
+* Sama Mohamed
+* Rewaa Sabry
+
 ---
